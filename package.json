@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "spotify/twitter",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiancaWilliams/Liri-Node-app.git"
+  },
+  "keywords": [],
+  "author": "biancawilliams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiancaWilliams/Liri-Node-app/issues"
+  },
+  "homepage": "https://github.com/BiancaWilliams/Liri-Node-app#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "omdbapi": "^2.0.1",
+    "request": "^2.85.0",
+    "tweetnacl": "^0.14.5",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
